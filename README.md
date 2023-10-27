@@ -23,16 +23,14 @@ Credit Card Customer Segmentation projects aim to create a segmentation for cred
 
 ## Result
 The Credit Card Customer Segmentation project was able to successfully create a segmentation for the credit card customer with details as follows :
-- Segment 1 :
+- `Segment 1` :
 A customer who have average income and didn't use their credit card very often as we can see their purchases is low although they have decent credit card limit. But they tend to pay their bill better than segment 2.
-- Segment 2 :
-A customer who have average income and didn't use their credit card very often as we can see their purchases is low although they have decent credit card limit. But they tend to pay their bill better than segment 2.
-- Segments 3 :
-A customer who have average income and didn't use their credit card very often as we can see their purchases is low although they have decent credit card limit. But they tend to pay their bill better than segment 2.
+- `Segment 2` :
+A customer who have same average income with segment 1 because their average credit limit is about the same, but this segment use their credit card more often as we can see their purchases and transaction amount is much more than segment 1.
+- `Segment 3` :
+A customer who have high-income based on how high their credit card limit is. They also use their credit card very often, their purchases is very high, their transaction amount is also plenty. Also they tend to pay their bills more than the other cluster, because their bill is the highest too.
 
-The Flight Price Prediction project was able to successfully the flight price with an `R2Score` of `94.3%` and 1.4s predict time. The project identified the most important features that influcences the flight price and created a predictive model that can be used to predict the price for future flight. These can be used by Airlines to help them to evaluate their ticket price by comparing it with their competitor.
+These segmentation information can be used by credit card issuer to give their customer reward and promotion based on their segment.
 
 ## Acknowledgements
-The Flight History data used in this project was obtained from [Kaggle](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction)
-
-Model Deployment for this project on [Hugging Face](https://huggingface.co/spaces/gilangw/flight_price_predictor)
+The Credit Card History data used in this project was obtained from [Google BigQuery](https://console.cloud.google.com/bigquery?p=ftds-hacktiv8-project&d=phase1_ftds_001_sby&t=credit-card-information&page=table)
