@@ -23,11 +23,11 @@ Credit Card Customer Segmentation projects aim to create a segmentation for cred
 
 ## Result
 The Credit Card Customer Segmentation project was able to successfully create a segmentation for the credit card customer with details as follows :
-- Segments 1
+- Segment 1 :
 A customer who have average income and didn't use their credit card very often as we can see their purchases is low although they have decent credit card limit. But they tend to pay their bill better than segment 2.
-- Segments 1
+- Segment 2 :
 A customer who have average income and didn't use their credit card very often as we can see their purchases is low although they have decent credit card limit. But they tend to pay their bill better than segment 2.
-- Segments 1
+- Segments 3 :
 A customer who have average income and didn't use their credit card very often as we can see their purchases is low although they have decent credit card limit. But they tend to pay their bill better than segment 2.
 
 The Flight Price Prediction project was able to successfully the flight price with an `R2Score` of `94.3%` and 1.4s predict time. The project identified the most important features that influcences the flight price and created a predictive model that can be used to predict the price for future flight. These can be used by Airlines to help them to evaluate their ticket price by comparing it with their competitor.
