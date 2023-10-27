@@ -28,7 +28,7 @@ A customer who have average income and didn't use their credit card very often a
 - `Segment 2` :
 A customer who have same average income with segment 1 because their average credit limit is about the same, but this segment use their credit card more often as we can see their purchases and transaction amount is much more than segment 1.
 - `Segment 3` :
-A customer who have high-income based on how high their credit card limit is. They also use their credit card very often, their purchases is very high, their transaction amount is also plenty. Also they tend to pay their bills more than the other cluster, because their bill is the highest too.
+A customer who have high-income based on how high their credit card limit is. They also use their credit card very often, their purchases is very high, their transaction amount is also plenty. Also they tend to pay their bills more than the other segment, because their bill is the highest too.
 
 These segmentation information can be used by credit card issuer to give their customer reward and promotion based on their segment.
 
