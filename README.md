@@ -22,6 +22,16 @@ Credit Card Customer Segmentation projects aim to create a segmentation for cred
 - K-mean Clustering
 
 ## Result
+![Shilhouette](./images/01_silhouette_3.png)  
+![KMeans-3](./images/02_kmeans_3.png)  
+We dicide that K-means 3 is the best/optimal k-means, because k-means 3 have more separate cluster that we can see the difference which k-means 2 doesn't have. Which is `Cluster 2` from k-means 3, this segmentation showing that the customer with high-income based on their credit card limit and also high-spending based on their purchases and amount of purchases. While on k-means 2 we can't see this at their `Cluster 0`.  
+
+![Average Purchase](./images/03_average_purchases.png)  
+Above are the result of clustering using `n_cluster=3`, as we can see :
+- The average purchase of `Cluster 0`, `Cluster 1` and `Cluster 2` is well separated, customer at `Cluster 1` are those _who use their credit card less_ to purchase item, then `Cluster 0` in the middle, who use their credit card more than `Cluster 1` but less than `Cluster 2`. And last `Cluster 2` looks like a customer with high income, their average purchases is high, average amount of transaction is 29+ transaction.
+
+## Conclusion
+![Segmentation Result](./images/04_segmentation_result.png)  
 The Credit Card Customer Segmentation project was able to successfully create a segmentation for the credit card customer with details as follows :
 - `Segment 1` :
 A customer who have average income and didn't use their credit card very often as we can see their purchases is low although they have decent credit card limit. But they tend to pay their bill better than segment 2.
