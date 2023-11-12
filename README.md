@@ -17,6 +17,7 @@ Credit Card Customer Segmentation projects aim to create a segmentation for cred
 - `CC_Customer_Segmentation.ipynb` : Jupyter Notebook containing the code used for data cleaning, exploratory data analysis, feature engineering, model training & evaluation and model improvement.
 - `CC_Customer_Segmentation_Inference.ipynb` : Jupyter Notebook containing the code for model inference testing.
 - `credit_card_data.csv` : CSV file containing the data of Credit Card History.
+- `images/` : Folder containing images result.
 
 ## Algorithm Used
 - K-mean Clustering
