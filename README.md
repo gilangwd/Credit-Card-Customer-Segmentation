@@ -1,4 +1,4 @@
-# Credit-Card-Customer-Segmentation
+# Credit Card Customer Segmentation
 This repository contains an unsupervised machine learning to create a customer segmentation for credit card user based on their credit card usage. The project designed to help the credit card issuer to identified their customer better.
 
 ## Project Overview
